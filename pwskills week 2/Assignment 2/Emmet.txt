@@ -1,0 +1,13 @@
+What is Emmet?
+ans:Emmet is a plugin for text editors that allows for faster and more efficient HTML and CSS coding. It allows developers to write HTML and CSS code using shorthand notation, which is then expanded into full code by the plugin.
+
+What are the advantages of using Emmet?
+ans:
+
+    Saves a lot of time.
+
+    Increase productivity.
+
+    Efficient Programming.
+
+    Allows to type shortcuts that are then expanded into full pieces of code after auto suggestive letter pops up.
